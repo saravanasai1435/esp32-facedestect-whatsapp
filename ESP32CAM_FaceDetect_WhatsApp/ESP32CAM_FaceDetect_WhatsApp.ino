@@ -5,10 +5,10 @@
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
 
-const char* WIFI_SSID = "APFIBER_0978";
-const char* WIFI_PASS = "0000009055";
+const char* WIFI_SSID = "WIFI_SSID";
+const char* WIFI_PASS = "WIFI_PASSCODE";
 
-const char* API_KEY = "cd_chu_020726_-mOBe2";
+const char* API_KEY = "CIRCUIT DIGEST API KEY";
 const char* serverName = "www.circuitdigest.cloud";
 
 const char* FACE_PATH = "/api/v1/face-detection/detect";
